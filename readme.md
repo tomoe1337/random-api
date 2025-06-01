@@ -9,7 +9,7 @@ cd random-api
 composer install
 ```
 
-3. Запуск сервер
+3. Запуск сервера
 ```bash
 php -S localhost:8000 index.php
 ```
